@@ -1,4 +1,5 @@
-# Datascience-Project-2022
+#Document Segmentation of Privacy Policy Text
+## Datascience-Project-2022
 This code was created by Juniper Lovato juniper.lovato@uvm.edu and Parisa Suchdev parisa.suchdev@uvm.edu for the Data Science 1 Course Spring 2022
 
 Data privacy is an integral issue that indirectly impacts people from all around the world. A greater understanding of the side effects
@@ -8,7 +9,7 @@ In the bigger picture, e use natural language processing (NLP) tools and methods
 which types of information data processors collect, use, and share. We aim to understand what types of data processors collect from
 consumers and how that data flows to third parties. 
 
-The biggest problem related to this project lies with the open problem of natural language processing: Data Segmentation. There are tons are policy texts and in order to divide those policy texts by sections to determine how companies collect, use and share consumer data, data segmentation plays crucial role.
+The biggest problem related to this project lies with the open problem of natural language processing: Document Segmentation. There are tons are policy texts and in order to divide those policy texts by sections to determine how companies collect, use and share consumer data, data segmentation plays crucial role.
 
 We take few samples out of a huge corpus of policy texts, divide sections according to headings (collect, use, share) and label them accordingly.
 
