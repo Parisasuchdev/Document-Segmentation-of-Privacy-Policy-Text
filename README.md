@@ -1,4 +1,4 @@
-#Document Segmentation of Privacy Policy Text
+# Document Segmentation of Privacy Policy Text
 
 This code was created by Juniper Lovato juniper.lovato@uvm.edu and Parisa Suchdev parisa.suchdev@uvm.edu for the Data Science 1 Course Spring 2022
 
